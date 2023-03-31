@@ -44,6 +44,6 @@ public class Animal {
 
     public void setAge(byte age) {
         this.age = age;
-    }
 
+    }
 }
