@@ -45,5 +45,12 @@ public class Animal {
     public void setAge(byte age) {
         this.age = age;
 
+
+    }
+
+    public String talk(){
+        String s = "El animal " + this.getName() + "dice";
+        return s;
     }
 }
+
